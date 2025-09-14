@@ -15,7 +15,7 @@ A simple and responsive survey form built with HTML. This project is designed to
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/iSeif19/Survey-Form.git
    ```
 2. **Open `index.html` in your browser.**
 
@@ -29,5 +29,6 @@ A simple and responsive survey form built with HTML. This project is designed to
 Feel free to submit issues or pull requests if you have suggestions or improvements!
 
 ## License
+
 
 This project is open source and available under the [MIT License](LICENSE).
